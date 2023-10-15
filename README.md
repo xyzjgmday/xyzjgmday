@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyzjgmday&show_icons=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xyzjgmday)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzjgmday)
+
 <!--
 **xyzjgmday/xyzjgmday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
