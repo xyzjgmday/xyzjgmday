@@ -1,106 +1,30 @@
-<h1 align="center">Hi there, I'm [Nama Anda] 👋</h1>
+## Hello World ...👋 
+![](https://komarev.com/ghpvc/?username=xyzjgmday)
+<br>
+My name is Day 
+<br>
+🌱 I’m currently learning Python
+<br>
+:construction_worker: A truck driver striving to undergo a metamorphosis into a programmer.
+<br><br>
+### Technologies & Tools :wrench:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/namalinkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/namatwitter">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.websiteanda.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-brightgreen?style=for-the-badge" />
-  </a>
-  <a href="https://www.bloganda.com">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-lightgrey?style=for-the-badge" />
-  </a>
-</p>
+![image](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/gitlab-white.svg?style=for-the-badge&logo=gitlab)
+![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyzjgmday&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=xyzjgmday" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzjgmday" alt="Top Languages" />
-</p>
-
-<h2 align="center">Keahlian dan Minat</h2>
-
-<p align="center">
-  💻 Programming: [List beberapa bahasa pemrograman yang Anda kuasai]
-</p>
-
-<p align="center">
-  🌐 Web Development: [List teknologi web yang Anda kuasai, seperti HTML, CSS, JavaScript, dll.]
-</p>
-
-<p align="center">
-  📱 Mobile App Development: [List platform dan bahasa pemrograman yang Anda gunakan]
-</p>
-
-<p align="center">
-  🚀 Cloud Computing: [List platform cloud yang Anda gunakan, seperti AWS, Azure, atau Google Cloud]
-</p>
-
-<p align="center">
-  📝 Writing: Saya menulis artikel di [nama blog Anda] tentang [topik yang Anda tulis]
-</p>
-
-<h2 align="center">Portofolio</h2>
-
-<p align="center">
-  <a href="[URL Proyek 1]">[Nama Proyek 1]</a>: Deskripsi singkat proyek Anda.
-</p>
-
-<p align="center">
-  <a href="[URL Proyek 2]">[Nama Proyek 2]</a>: Deskripsi singkat proyek Anda.
-</p>
-
-<p align="center">
-  <a href="[URL Proyek 3]">[Nama Proyek 3]</a>: Deskripsi singkat proyek Anda.
-</p>
-
-<h2 align="center">Artikel Terkini</h2>
-
-<p align="center">
-  - <a href="https://linkkeartikel1.com">[Judul Artikel 1]</a>: Ringkasan singkat artikel Anda.
-</p>
-
-<p align="center">
-  - <a href="https://linkkeartikel2.com">[Judul Artikel 2]</a>: Ringkasan singkat artikel Anda.
-</p>
-
-<p align="center">
-  - <a href="https://linkkeartikel3.com">[Judul Artikel 3]</a>: Ringkasan singkat artikel Anda.
-</p>
-
-<h2 align="center">Blog</h2>
-
-<p align="center">
-  Saya sering menulis tentang [topik yang Anda tulis] di [nama blog Anda]. Kunjungi blog saya di <a href="[link blog Anda]">[link blog Anda]</a> untuk membaca artikel-artikel terbaru.
-</p>
-
-<h2 align="center">Kontak</h2>
-
-<p align="center">
-  Jangan ragu untuk menghubungi saya:
-</p>
-
-<p align="center">
-  - Email: [alamat email Anda]
-</p>
-
-<p align="center">
-  - LinkedIn: <a href="[Profil LinkedIn Anda]">[Profil LinkedIn Anda]</a>
-</p>
-
-<p align="center">
-  - Twitter: <a href="[Profil Twitter Anda]">[Profil Twitter Anda]</a>
-</p>
-
-<p align="center">
-Terima kasih telah mengunjungi profil saya!
-</p>
+![image](https://img.shields.io/badge/codeigniter-orange.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![image](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![image](https://img.shields.io/badge/VSC-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br><br>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzjgmday&theme=synthwave">
+  <img align="right" alt="xyzjgmday's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xyzjgmday&count_private=true&show_icons=true&theme=synthwave">
+</details>
