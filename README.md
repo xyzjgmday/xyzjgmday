@@ -27,6 +27,8 @@ My name is Day
 ![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/VSC-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![image](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![image](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <br><br>
 <details>
   <summary>:zap: GitHub Stats</summary>
